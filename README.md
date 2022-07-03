@@ -1,0 +1,2 @@
+# scaffolding
+Init node app
