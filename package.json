@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node --es-module-specifier-resolution=node src/index.js",
-    "watch": "nodemon --es-module-specifier-resolution=node src/index.js",
+    "dev": "nodemon --es-module-specifier-resolution=node src/index.js",
     "lint": "eslint src",
     "lint:fix": "eslint src --fix",
     "test": "jest --coverage=false",
